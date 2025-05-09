@@ -1,4 +1,3 @@
-# NLP
 # SMS Spam Detection Using NLP
 
 This project is an ipynb Notebook that demonstrates how to detect spam SMS messages using Natural Language Processing and a Naive Bayes classifier.
